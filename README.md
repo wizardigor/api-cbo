@@ -7,7 +7,7 @@ O objetivo final é gerar arquivos para importação e/ou APIs gratuitas para co
 - JSON
 
 ## Discussão geral
-(ainda não definido)
+link para area de discursões [Aqui!](https://github.com/wizardigor/igorgomes-eti/discussions/4)
 
 ## Organização de levantamento
 
